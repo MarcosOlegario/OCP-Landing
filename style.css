@@ -29,19 +29,25 @@ body {
 .title1{
 	text-align: -webkit-center;
 }
-.div1{
+.firsttext{
 	margin-bottom: 4.5rem;
 	display: flex;
 	text-align: end;
 	justify-content: flex-end;
 }
-.div2{
+.textright{
 	max-width: 50%;
 	margin-left: 1.75rem;
 	color: #A5A5A5;
 	letter-spacing: 1px;
 }
-.div3{
+.sectionbutton{
+	max-width: 35%;
+	margin-left: 1.75rem;
+	color: #A5A5A5;
+	letter-spacing: 1px;
+}
+.secondtext{
 	margin-bottom: 1.5rem;
 	display: flex;
 	text-align: end;
@@ -59,15 +65,10 @@ ul{
     border-spacing: 25px;
     display: table;
 }
-.cont1{
+.conteudo1{
 	display: flex;
 	margin-bottom: 2.5rem;
     }
-.cont2{
-	display: flex;
-	max-width: 50%;
-    }
-
 .text1{
 	max-width: 75%;
 	text-align: end;
